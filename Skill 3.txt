@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Skill</title>
+    <link rel="stylesheet" href="Styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="Home.html" class="nav-link">Home</a>
+            <a href="Home.html" class="nav-link">Back to Skills</a>
+        </nav>
+    </header>
+
+    <main>
+        <h1>C#</h1>
+        <p>C# (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework. C# is used to develop web apps, desktop apps, mobile apps, games and much more.
+
+	</p>
+        <h2>C# is used for</h2>
+        <ul>
+            <li>Mobile applications
+	    </li>
+            <li>Desktop applications</li>
+            <li>Web applications</li>
+	    <li>Web services</li>
+	    <li>Web sites</li>
+	    <li>Games</li>
+	    <li>VR</li>
+        </ul>
+        <a href="Home.html#skills" class="btn">Back to Skills</a>
+    </main>
+</body>
+</html>
